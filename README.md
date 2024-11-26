@@ -29,7 +29,7 @@ Hardware – PCs, Cyclone II , USB flasher
 4.	Create nodes for inputs and outputs to generate the timing diagram.
 
 5.	For different input combinations generate the timing diagram.
-```
+~~~
 **Program:**
 i)
 module EXPERIMENT2(a,b,c,d,f1);
@@ -47,7 +47,7 @@ endmodule
 
 Developed by: vishal s
 RegisterNumber:24008833
-```
+~~~
 
 **RTL realization**
 ![Screenshot 2024-11-26 180240](https://github.com/user-attachments/assets/59075150-009f-436c-b806-98835485de4b)
